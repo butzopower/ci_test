@@ -34,3 +34,4 @@ end
 
 gem 'rspec-rails'
 gem 'capybara'
+gem 'poltergeist'
